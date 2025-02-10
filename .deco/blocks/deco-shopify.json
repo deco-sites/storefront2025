@@ -1,1 +1,8 @@
-{"__resolveType":"site/apps/deco/shopify.ts"}
+{
+  "__resolveType": "site/apps/deco/shopify.ts",
+  "adminAccessToken": {},
+  "platform": "shopify",
+  "storeName": "Crtais Místico",
+  "publicUrl": "https://xj4itx-60.myshopify.com/",
+  "storefrontAccessToken": "014d22d2c64115f538a9d1123c7afbc5"
+}
