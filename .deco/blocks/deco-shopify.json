@@ -2,10 +2,10 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "b7eed760af83bc67ddb58b246810d917fd52c372f29b515ee444f58b5388d969db90a4c9334000219ab87a8a8bb54345"
+    "encrypted": "41c8f5427cf2e7d44649d632bb0d2be97f7f66f71a384bcf5160837926b08c196011c8b01c0daf319e973c4ee8cc7b99"
   },
   "platform": "shopify",
   "storeName": "Crtais Místico",
   "publicUrl": "xj4itx-60.myshopify.com",
-  "storefrontAccessToken": "014d22d2c64115f538a9d1123c7afbc5"
+  "storefrontAccessToken": "93cbc8813eef4afbfd2472a155560c88"
 }
